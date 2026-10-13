@@ -14,7 +14,7 @@ export default defineConfig(() => {
         includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'icon.svg'],
         manifest: {
           id: '/',
-          name: 'Ingeniería Eléctrica CFP',
+          name: 'Tribu Wellness Club',
           short_name: 'Tribu Club',
           description: 'Plataforma integral de gestión de accesos y dashboard para Tribu Wellness Club',
           theme_color: '#1D3A4C',

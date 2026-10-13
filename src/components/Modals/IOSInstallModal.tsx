@@ -34,7 +34,7 @@ export const IOSInstallModal: React.FC<IOSInstallModalProps> = ({ isOpen, onClos
 
         <div className="p-5 space-y-4 text-xs text-slate-700">
           <p className="leading-relaxed">
-            Para instalar <strong className="text-slate-900 font-semibold">Ingeniería Eléctrica CFP - Tribu Wellness Club</strong> como una aplicación independiente en tu pantalla de inicio de Apple:
+            Para instalar <strong className="text-slate-900 font-semibold">Tribu Wellness Club</strong> como una aplicación independiente en tu pantalla de inicio:
           </p>
 
           <ol className="space-y-3">
