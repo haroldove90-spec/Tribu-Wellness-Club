@@ -1,0 +1,6 @@
+{
+  "name": "Ingeniería Eléctrica CFP",
+  "description": "Plataforma integral de gestión de accesos y dashboard institucional para Tribu Wellness Club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
